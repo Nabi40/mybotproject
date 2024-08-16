@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-2h-f%i=vem&z(dk#+@y*p+1m@b2biyq($8o94og-2dzqlf@+4e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mybotproject.onrender.com']
 
 
 # Application definition
