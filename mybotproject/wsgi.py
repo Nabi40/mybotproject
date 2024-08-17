@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 WSGI config for mybotproject project.
 
@@ -14,3 +15,21 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mybotproject.settings')
 
 application = get_wsgi_application()
+=======
+"""
+WSGI config for mybotproject project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/5.0/howto/deployment/wsgi/
+"""
+
+import os
+
+from django.core.wsgi import get_wsgi_application
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mybotproject.settings')
+
+application = get_wsgi_application()
+>>>>>>> 6a8544311505b6ab36e61852c5d5b3d428971413

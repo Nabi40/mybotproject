@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Django==5.0.4
 openai==1.40.8
 python-dotenv==1.0.1
 python-telegram-bot==21.4
+=======
+Django==5.0.4
+openai==1.40.8
+python-dotenv==1.0.1
+python-telegram-bot==21.4
+>>>>>>> 6a8544311505b6ab36e61852c5d5b3d428971413
 gunicorn==20.0.4
