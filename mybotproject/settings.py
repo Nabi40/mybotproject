@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 Django settings for mybotproject project.
 
@@ -129,7 +129,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-=======
+
 """
 Django settings for mybotproject project.
 
@@ -260,4 +260,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
->>>>>>> 6a8544311505b6ab36e61852c5d5b3d428971413
+

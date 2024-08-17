@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import openai
 import logging
@@ -55,7 +55,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         main()
-=======
+
 import os
 import openai
 import logging
@@ -112,4 +112,4 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         main()
->>>>>>> 6a8544311505b6ab36e61852c5d5b3d428971413
+
