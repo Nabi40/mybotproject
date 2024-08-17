@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Django==5.0.4
 openai==1.40.8
 python-dotenv==1.0.1
