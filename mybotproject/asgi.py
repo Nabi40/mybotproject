@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 ASGI config for mybotproject project.
 
@@ -15,7 +15,7 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mybotproject.settings')
 
 application = get_asgi_application()
-=======
+
 """
 ASGI config for mybotproject project.
 
@@ -32,4 +32,4 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mybotproject.settings')
 
 application = get_asgi_application()
->>>>>>> 6a8544311505b6ab36e61852c5d5b3d428971413
+
